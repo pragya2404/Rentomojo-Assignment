@@ -62,7 +62,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/Mayankkestwal10/PhoneBook
+    $ git clone https://github.com/Pragya2404/PhoneBook
     $ cd PhoneBook
     $ npm run server
 
