@@ -1,6 +1,6 @@
 # PhoneBook
 
-PhoneBook is a contact book application built using NodeJs + Express + Mongodb with CRUD operation.
+PhoneBook is a contact book application built using NodeJs + Express + Mongodb.
 
 <h4>Add Contact</h4>
 
